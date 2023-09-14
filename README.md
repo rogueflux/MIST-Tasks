@@ -1,2 +1,2 @@
 # MIST-Tasks
-All tasks for club MIST
+MIST research tasks
